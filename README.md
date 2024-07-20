@@ -1,2 +1,3 @@
 # TRAVELO
-The Sorting Algorithm Visualizer is a console-based application developed in C++ that visually demonstrates the process of sorting an array using various sorting algorithms. This tool is designed for educational purposes, helping users understand the mechanics of sorting algorithms by visualising each step of the sorting process.
+An innovative platform designed to streamline the process of finding and booking accommodations worldwide. This user-friendly website aims to provide travellers with a comprehensive tool for searching, comparing and booking hotels.
+
